@@ -381,13 +381,6 @@ export default function Home() {
              >
                <span>⚙️</span> <span className="tab-text">Settings</span>
              </button>
-             <button
-               onClick={() => window.open('/pitch', '_blank')}
-               className="tab-btn"
-               style={{ width: '100%', border: '1px dashed rgba(212, 175, 55, 0.3)', marginTop: '8px' }}
-             >
-               <span>🎥</span> <span className="tab-text" style={{ color: 'var(--primary)' }}>Brand Pitch Video</span>
-             </button>
           </nav>
         </div>
 
