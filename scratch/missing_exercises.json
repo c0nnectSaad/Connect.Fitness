@@ -1,0 +1,366 @@
+[
+  {
+    "id": "e_machine_press",
+    "name": "Machine Chest Press",
+    "category": "Chest",
+    "visualCategory": "bench_press",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Machine Chest Press. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_incline_bb_press",
+    "name": "Incline Barbell Press",
+    "category": "Chest",
+    "visualCategory": "incline_press",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Incline Barbell Press. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_flat_db_press",
+    "name": "Flat Dumbbell Press",
+    "category": "Chest",
+    "visualCategory": "bench_press",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Flat Dumbbell Press. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_pec_deck_fly",
+    "name": "Pec Deck Machine Fly",
+    "category": "Chest",
+    "visualCategory": "flyes",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Pec Deck Machine Fly. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_cable_crossover",
+    "name": "Cable Crossover (high → low)",
+    "category": "Chest",
+    "visualCategory": "flyes",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Cable Crossover (high → low). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_pushups_failure",
+    "name": "Close-Grip Push-Ups",
+    "category": "Chest",
+    "visualCategory": "bench_press",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Close-Grip Push-Ups. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_lat_pulldown_wide",
+    "name": "Lat Pulldown (wide grip)",
+    "category": "Back",
+    "visualCategory": "pullups",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Lat Pulldown (wide grip). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_seated_cable_row",
+    "name": "Seated Cable Row",
+    "category": "Back",
+    "visualCategory": "rows",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Seated Cable Row. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_cable_pullover",
+    "name": "Cable Pullover",
+    "category": "Back",
+    "visualCategory": "pullups",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Cable Pullover. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_face_pulls",
+    "name": "Face Pulls",
+    "category": "Back",
+    "visualCategory": "rows",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Face Pulls. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_single_arm_db_row",
+    "name": "Single-Arm DB Row",
+    "category": "Back",
+    "visualCategory": "rows",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Single-Arm DB Row. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_lat_pulldown_rev",
+    "name": "Lat Pulldown (reverse grip)",
+    "category": "Back",
+    "visualCategory": "pullups",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Lat Pulldown (reverse grip). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_chest_supported_row",
+    "name": "Chest-Supported Row",
+    "category": "Back",
+    "visualCategory": "rows",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Chest-Supported Row. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_straight_arm_pulldown",
+    "name": "Straight-Arm Cable Pulldown",
+    "category": "Back",
+    "visualCategory": "pullups",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Straight-Arm Cable Pulldown. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_rear_delt_cable_fly",
+    "name": "Rear Delt Cable Fly",
+    "category": "Back",
+    "visualCategory": "flyes",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Rear Delt Cable Fly. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_arnold_press",
+    "name": "Arnold Press",
+    "category": "Shoulders",
+    "visualCategory": "shoulder_press",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Arnold Press. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_reverse_pec_deck",
+    "name": "Reverse Pec Deck",
+    "category": "Shoulders",
+    "visualCategory": "flyes",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Reverse Pec Deck. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_upright_row",
+    "name": "Upright Row (EZ bar wide grip)",
+    "category": "Shoulders",
+    "visualCategory": "rows",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Upright Row (EZ bar wide grip). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_db_front_raise",
+    "name": "Dumbbell Front Raise",
+    "category": "Shoulders",
+    "visualCategory": "lateral_raise",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Dumbbell Front Raise. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_rope_pushdown",
+    "name": "Rope Pushdown",
+    "category": "Triceps",
+    "visualCategory": "tricep_extension",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Rope Pushdown. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_tricep_dips",
+    "name": "Tricep Dips",
+    "category": "Triceps",
+    "visualCategory": "tricep_extension",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Tricep Dips. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_skull_crushers",
+    "name": "Skull Crushers (EZ bar)",
+    "category": "Triceps",
+    "visualCategory": "tricep_extension",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Skull Crushers (EZ bar). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_single_arm_pushdown",
+    "name": "Single-Arm Cable Pushdown",
+    "category": "Triceps",
+    "visualCategory": "tricep_extension",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Single-Arm Cable Pushdown. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_close_grip_bench",
+    "name": "Close-Grip Bench Press",
+    "category": "Triceps",
+    "visualCategory": "bench_press",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Close-Grip Bench Press. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_incline_db_curl",
+    "name": "Incline Dumbbell Curl",
+    "category": "Biceps",
+    "visualCategory": "bicep_curl",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Incline Dumbbell Curl. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_hammer_curl",
+    "name": "Hammer Curl",
+    "category": "Biceps",
+    "visualCategory": "bicep_curl",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Hammer Curl. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_preacher_curl",
+    "name": "EZ Bar Preacher Curl",
+    "category": "Biceps",
+    "visualCategory": "bicep_curl",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing EZ Bar Preacher Curl. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_cable_curl",
+    "name": "Cable Curl",
+    "category": "Biceps",
+    "visualCategory": "bicep_curl",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Cable Curl. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_concentration_curl",
+    "name": "Concentration Curl",
+    "category": "Biceps",
+    "visualCategory": "bicep_curl",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Concentration Curl. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_ab_wheel",
+    "name": "Ab Wheel Rollout",
+    "category": "Abs",
+    "visualCategory": "plank",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Ab Wheel Rollout. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_cable_crunch",
+    "name": "Cable Crunch",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Cable Crunch. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_reverse_crunch",
+    "name": "Reverse Crunch",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Reverse Crunch. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_lying_leg_raises",
+    "name": "Lying Leg Raises",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Lying Leg Raises. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_dragon_flag",
+    "name": "Dragon Flag (tuck)",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Dragon Flag (tuck). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_hanging_knee_raises",
+    "name": "Hanging Knee Raises",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Hanging Knee Raises. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_dead_bug",
+    "name": "Dead Bug",
+    "category": "Abs",
+    "visualCategory": "plank",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Dead Bug. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_side_plank",
+    "name": "Side Plank",
+    "category": "Abs",
+    "visualCategory": "plank",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Side Plank. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_low_cable_crunch",
+    "name": "Low Cable Crunch (kneeling)",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Low Cable Crunch (kneeling). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_mountain_climbers",
+    "name": "Mountain Climbers",
+    "category": "Abs",
+    "visualCategory": "plank",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Mountain Climbers. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_bicycle_crunch",
+    "name": "Bicycle Crunch",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Bicycle Crunch. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_hanging_leg_straight",
+    "name": "Hanging Leg Raises (straight)",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Hanging Leg Raises (straight). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_vups",
+    "name": "V-Ups",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing V-Ups. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_weighted_cable_crunch",
+    "name": "Weighted Cable Crunch",
+    "category": "Abs",
+    "visualCategory": "crunches",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Weighted Cable Crunch. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_plank_max",
+    "name": "Plank (max hold)",
+    "category": "Abs",
+    "visualCategory": "plank",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Plank (max hold). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_hack_squat",
+    "name": "Hack Squat",
+    "category": "Legs",
+    "visualCategory": "squats",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Hack Squat. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_bulgarian_squat",
+    "name": "Bulgarian Split Squat (DB)",
+    "category": "Legs",
+    "visualCategory": "squats",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Bulgarian Split Squat (DB). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_leg_curl",
+    "name": "Seated Leg Curl",
+    "category": "Legs",
+    "visualCategory": "deadlifts",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Seated Leg Curl. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_leg_extension",
+    "name": "Leg Extension",
+    "category": "Legs",
+    "visualCategory": "squats",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Leg Extension. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_calf_raise",
+    "name": "Standing Calf Raise",
+    "category": "Legs",
+    "visualCategory": "squats",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Standing Calf Raise. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_neck_extension",
+    "name": "Plate Neck Extension",
+    "category": "Neck",
+    "visualCategory": "neck",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Plate Neck Extension. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_neck_isometric",
+    "name": "Neck Isometric Hold",
+    "category": "Neck",
+    "visualCategory": "neck",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Neck Isometric Hold. Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  },
+  {
+    "id": "e_neck_raise_side",
+    "name": "Side Neck Raise (plate)",
+    "category": "Neck",
+    "visualCategory": "neck",
+    "prompt": "A cartoon illustration of a muscular male fitness athlete with a brown beard and short hair, performing Side Neck Raise (plate). Minimalist vector art style, flat colors, clean black outlines, isolated on a solid white background, fitness guide illustration."
+  }
+]
