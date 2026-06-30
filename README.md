@@ -33,12 +33,6 @@ Connect.Fitness is engineered for visual elegance and precise metric tracking. G
 * **Macro Ratio Tracking**: Shows precise breakdowns for Proteins, Carbohydrates, and Fats with visual color bars.
 * **Cooking Method Factor**: Log meals (e.g., Chicken Breast, eggs) and choose cooking methods like *Grilled* or *Fried* to automatically recalculate fat and calorie adjustments.
 
-### 🎥 5. 3D Brand Pitch Video Page
-* **CSS 3D Device Mockup**: Features an interactive, bezel-less smartphone floating in 3D space with real physics-based rotation.
-* **Narrated Presentation Timeline**: An auto-playing cinematic slide sequence showing the app's features in real-time with subtitles.
-* **3D Orbit Mode**: Pause the video timeline to rotate the device in 3D with your mouse and interact with active screens live inside the phone mockups!
-* **Brand Sponsorship Card Slides**: Visual highlights demonstrating opportunities for sponsors to integrate custom workout routines, product sales links, and supplement guides.
-
 ---
 
 ## 🛠️ Technology Stack
